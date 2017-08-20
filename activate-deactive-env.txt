@@ -1,0 +1,8 @@
+#
+# To activate this environment, use:
+# > source activate statistical-inferences
+#
+# To deactivate an active environment, use:
+# > source deactivate
+#
+
