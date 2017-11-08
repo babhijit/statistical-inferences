@@ -140,6 +140,7 @@ dependencies:
 - qtawesome=0.4.4=py35_0
 - qtconsole=4.3.0=py35_0
 - qtpy=1.2.1=py35_0
+- quandl=3.1.0=py35_0
 - requests=2.14.2=py35_0
 - rope=0.9.4=py35_1
 - ruamel_yaml=0.11.14=py35_1
@@ -195,5 +196,3 @@ dependencies:
   - tensorflow==1.1.0
   - theano==0.9.0
   - win-unicode-console==0.5
-prefix: C:\Users\USER\AppData\Local\conda\conda\envs\statistical-inferences
-
